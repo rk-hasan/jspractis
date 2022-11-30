@@ -1,0 +1,31 @@
+{
+    "Student":{
+        "Name" : "Hasan",
+        "Age" : 22,
+        "Department": "Computer"
+    },
+    
+    "color": [
+        "red",
+        "Green",
+        "Yellow"
+    ],
+    
+    "Cuntry": [
+        {
+            "name": "Bangladesh",
+            "Populatuion": 1600000,
+            "Distric": 63
+        },
+        {
+            "name": "india",
+            "Populatuion": 21600000,
+            "Distric": 103
+        },
+        {
+            "name": "Pakistan",
+            "Populatuion": 11600000,
+            "Distric": 90
+        }
+    ]
+}
